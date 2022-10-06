@@ -1,0 +1,6 @@
+.menu a {text-decoration:none; font-family:Georgia, "Times New Roman", Times, serif;}
+ul.menu>li { display:inline-block; margin-left:40px;}
+ul.menu>li:first-child {margin-left:0;}
+ul.menu>li>a {font-size:18px; line-height:1em; color:#285962; text-transform:uppercase; display:block; position:relative; padding:9px 21px 10px 21px; background:#85ccd9;}
+ul.menu>li.current>a, ul.menu>li.sfHover>a, ul.menu>li>a:hover {background:#f59e64;}
+
